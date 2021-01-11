@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:TesteDrive.ViewModels"
+             mc:Ignorable="d"
+             x:Class="TesteDrive.Views.LoginPage">
+
+    <!--Definindo o Binding da pagina-->
+    <ContentPage.BindingContext>
+        <vm:LoginViewModel></vm:LoginViewModel>
+    </ContentPage.BindingContext>
+    <StackLayout VerticalOptions="Center" Margin="64">
+        <Image Source="LogoTeste.png"></Image>
+        <Entry Placeholder="Usuário" Text="{Binding Usuario}"></Entry>
+        <Entry Placeholder="Senha" Text="{Binding Senha}" IsPassword="True"></Entry>
+        <Button Text="Entrar" BackgroundColor="Green" Command="{Binding EntrarCommand}"></Button>
+        
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUr5Nw/WBEYC3sMLdcwyGLv7v1tejRet5Kevc3wI034lZuliLNrChoPy+aBE5+1Nm12voksZvfbtBlxYoELZ5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w.gontijo\\source\\repos\\TesteDrive\\TesteDrive\\TesteDrive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\w.gontijo\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

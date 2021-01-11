@@ -1,0 +1,17 @@
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\bin\Debug\netcoreapp3.1\TesteDrive.deps.json
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\bin\Debug\netcoreapp3.1\TesteDrive.dll
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\bin\Debug\netcoreapp3.1\ref\TesteDrive.dll
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\bin\Debug\netcoreapp3.1\TesteDrive.pdb
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.csprojAssemblyReference.cache
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\App.xaml.g.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\Views\AgendamentoPage.xaml.g.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\Views\DetalhesPage.xaml.g.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\Views\ImagemPage.xaml.g.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\Views\MainPage.xaml.g.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.AssemblyInfoInputs.cache
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.AssemblyInfo.cs
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.csproj.CoreCompileInputs.cache
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\XamlC.stamp
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.dll
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\ref\TesteDrive.dll
+C:\Users\w.gontijo\source\repos\TesteDrive\TesteDrive\obj\Debug\netcoreapp3.1\TesteDrive.pdb

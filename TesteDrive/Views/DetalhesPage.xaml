@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TesteDrive.Views.DetalhesPage"
+             Title="{Binding Veiculos.Marca}">
+
+    <StackLayout Padding="25">
+        <TableView Intent="Settings">
+            <TableRoot>
+                <TableSection Title="Acessorios">
+                    <SwitchCell Text="{Binding FreioAbs}" On="{Binding TemFreioAbs, Mode=TwoWay}"></SwitchCell>
+                    <SwitchCell Text="{Binding ArCondicionado}" On="{Binding TemArCondicionado , Mode=TwoWay}"></SwitchCell>
+                    <SwitchCell Text="{Binding Mp3}" On="{Binding TemMP3, Mode=TwoWay}"></SwitchCell>
+                    <TextCell Text="{Binding TextValorTotal, Mode=TwoWay}"></TextCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+
+        <Button x:Name="btnProximo" Text="Proximo" 
+               Command="{Binding ProximoCommand}"
+            VerticalOptions="End" 
+            HorizontalOptions="Center"
+            BackgroundColor="Green"
+            TextColor="White"
+            BorderWidth="5"
+            CornerRadius="5"
+            WidthRequest="150"
+            HeightRequest="75" ></Button>
+    </StackLayout>
+
+
+</ContentPage>
